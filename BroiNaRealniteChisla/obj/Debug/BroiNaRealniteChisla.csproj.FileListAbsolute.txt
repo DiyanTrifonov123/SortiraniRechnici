@@ -1,0 +1,8 @@
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\bin\Debug\BroiNaRealniteChisla.exe.config
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\bin\Debug\BroiNaRealniteChisla.exe
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\bin\Debug\BroiNaRealniteChisla.pdb
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.csproj.AssemblyReference.cache
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.csproj.SuggestedBindingRedirects.cache
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.csproj.CoreCompileInputs.cache
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.exe
+E:\Programming\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.pdb
